@@ -49,8 +49,13 @@ Taggen `<h1>` definerer den viktigste hovedoverskriften på en nettside.
 - [x] klatra
 - [ ] Løpa
 
-|  | |
+**Tabel**
+|pros|cons|
 |---|---|
-|  | |
-|  |  |
-| |  |
+|asda |sad  |
+|asdfs|safs |
+|fasfa|asfsa|
+
+**KODE**
+```python
+print("Hei verden!")
